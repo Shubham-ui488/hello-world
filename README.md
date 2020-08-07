@@ -1,2 +1,2 @@
 # hello-world
-New project
+This is starting of the project.
